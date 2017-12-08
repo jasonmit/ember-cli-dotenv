@@ -1,4 +1,6 @@
-# Ember CLI Dotenv
+# @jasonmit/ember-cli-dotenv [DEPRECATED]
+
+## If you are dependent on this fork of ember-cli-dotenv, note all changes have been merged upstream into [ember-cli-dotenv](https://github.com/fivetanley/ember-cli-dotenv).  This project will no longer be maintained.
 
 # Installation
 
